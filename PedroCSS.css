@@ -183,10 +183,15 @@
   			grid-template-columns: 1fr;
   		}
 
-  		.estrelas, .conversa1, .teamo {
+  		.conversa1, .teamo {
   			width: 100%;
   			}
-
+		
+		.estrelas {
+  			margin: 10px;
+  			width: 90%;
+  		}
+			
   		.coracao {
   			width: 20%;
   			}
